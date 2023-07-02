@@ -1,8 +1,6 @@
 # Quarantine-Talks
 This is a flask based web application for online group chatting with anonymity, deployed on Heroku. Users can visit this website to participate in the onging chat with a nickname they chooses for themselves. User identitity remains anonymous and during chatting, no one knows who is on the other end. No user or chat related data is stored on server. This web application was developed during the lockdown period of COVID-19, and thats how this got its name.
 
-**Link to the website** : https://quaran-talks.herokuapp.com/
-
 **Tools/Framework used** : Flask, Javascript, WebSocketIO, HTML, CSS, Gunicorn
 
 ### How to run
